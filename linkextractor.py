@@ -1,6 +1,6 @@
 """
 Script d'extraction de liens web avec filtrage par mois
-Auteur: [Votre Nom]
+Auteur: Shadrak Bsh
 Version: 1.0
 """
 
